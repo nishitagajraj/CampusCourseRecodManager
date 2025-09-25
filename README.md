@@ -31,13 +31,13 @@ JDK includes JRE and JVM. JRE uses JVM to run the actual code.
 **#Java Editions Comparison:**
 **Edition	  :Mainly Used For, Typical Devices , 	Main Features	 , Examples .**
 
-##Java SE: 
+ **Java SE:**
    	Regular computer programs	PCs, laptops	Basic Java libraries, GUIs, networking	Desktop tools, small apps
    	
-##Java EE:
+ **Java EE:**
   	Big business/web applications	Servers	Extra libraries for web, database, emails, transactions	Online stores, banking software
     
-##Java ME	:
+ **Java ME**	:
    Programs for tiny devices	Mobile phones, embedded gadgets	Light and fast, works with limited memory and power	Mobile games, smart cards
 
 
@@ -81,6 +81,7 @@ Screenshots folder:
 <img width="1190" height="566" alt="program running  5" src="https://github.com/user-attachments/assets/b15a9465-6368-4dc0-ac53-d7b743de1c6b" />
 <img width="1208" height="659" alt="program running  6" src="https://github.com/user-attachments/assets/5e79c1e1-8336-403f-ac31-7b1117407646" />
 <img width="654" height="793" alt="program running  7" src="https://github.com/user-attachments/assets/bb613c3d-9b85-490d-bdb5-546a84723651" />
+
 ■ Exports/Backups folder structure
 <img width="619" height="978" alt="eclipse setup and run" src="https://github.com/user-attachments/assets/93f2626e-d6db-4097-83bd-83f13e824fad" />
 
