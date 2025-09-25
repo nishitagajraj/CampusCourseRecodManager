@@ -2,38 +2,34 @@
              CCRM is a computer program written in Java to help schools keep track of students, courses, grades, and backups. It runs in a command window, so actions are chosen by picking menu options. You use it to add students, create courses, enroll students in courses, give grades, and save or back up data.
              
 #  Main Features
-Add, change, and list students and courses
 
-Sign students up for courses, remove them if needed
+-  **Add, change, and list** students and courses
+-  
+-  **Sign students up for courses**, remove them if needed
+-    
+-  **Give grades** and print student report cards
+-  
+-  **Save and read data** from files with backup capabilities
 
-Give grades and print a student’s report card
+# Java Evolution & Architecture
 
-Save and read data from files, and make backup copies
+- **JDK 1.0 (1996)**: Initial OOP features, basic syntax
+- **JDK 1.2**: Collections framework, Swing
+- **JDK 5**: Generics, annotations, enums  
+- **JDK 8**: Lambda expressions, Stream API (used in this project)
+- **JDK 9+**: Modularization, local variable type inference
 
+# Java Architecture
+**JDK**: Tools for coding Java programs
 
+**JRE**: Lets you run Java programs
 
-#Java Evolution Timeline :
-
-JDK 1.0 released (1996): Initial OOP features, basic syntax
-JDK 1.2: Collections framework, Swing
-JDK 5: Generics, annotations, enums
-JDK 8: Lambda expressions, Stream API (demonstrated here)
-JDK 9+: Modularization, local variable type inference, new IO APIs.
-
-#3. Java Architecture
-JDK: Tools for coding Java programs
-
-JRE: Lets you run Java programs
-
-JVM: Runs Java programs on any computer
+**JVM**: Runs Java programs on any computer
 
 JDK includes JRE and JVM. JRE uses JVM to run the actual code.
 
-
-#Java Editions Comparison:
-
-
-Edition	  :Mainly Used For, Typical Devices , 	Main Features	 , Examples .
+**#Java Editions Comparison:**
+**Edition	  :Mainly Used For, Typical Devices , 	Main Features	 , Examples .**
 ##Java SE: 
    	Regular computer programs	PCs, laptops	Basic Java libraries, GUIs, networking	Desktop tools, small apps
    	
@@ -42,12 +38,21 @@ Edition	  :Mainly Used For, Typical Devices , 	Main Features	 , Examples .
 ##Java ME	:
    Programs for tiny devices	Mobile phones, embedded gadgets	Light and fast, works with limited memory and power	Mobile games, smart cards
 
-#4. Install & Configure Java on Windows
-Download latest Java (JDK 17 or more)
 
-Run installer (double-click).
+## Installation & Setup
 
-Add JDK path to Windows Environment Variables.
+### Prerequisites
+- Java JDK 17 or higher
+- Eclipse IDE (recommended)
+
+### Windows Installation
+1. **Download** latest Java JDK from Oracle
+2. **Run installer** (double-click .exe file)
+3. **Set environment variables**:
+   - Add JDK path to Windows Environment Variables
+4. **Verify installation**:
+   ```cmd
+   java -version
 
 Check install: Open command prompt, type java -version. <img width="1448" height="510" alt="JDK Installation verification" src="https://github.com/user-attachments/assets/ac1a2bfe-6a51-4012-ae6e-ce47656d3a98" />
  
