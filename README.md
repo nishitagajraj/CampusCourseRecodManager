@@ -4,11 +4,11 @@
 #  Main Features
 
 -  **Add, change, and list** students and courses
--  
+   
 -  **Sign students up for courses**, remove them if needed
--    
+   
 -  **Give grades** and print student report cards
--  
+  
 -  **Save and read data** from files with backup capabilities
 
 # Java Evolution & Architecture
@@ -30,11 +30,13 @@ JDK includes JRE and JVM. JRE uses JVM to run the actual code.
 
 **#Java Editions Comparison:**
 **Edition	  :Mainly Used For, Typical Devices , 	Main Features	 , Examples .**
+
 ##Java SE: 
    	Regular computer programs	PCs, laptops	Basic Java libraries, GUIs, networking	Desktop tools, small apps
    	
 ##Java EE:
   	Big business/web applications	Servers	Extra libraries for web, database, emails, transactions	Online stores, banking software
+    
 ##Java ME	:
    Programs for tiny devices	Mobile phones, embedded gadgets	Light and fast, works with limited memory and power	Mobile games, smart cards
 
@@ -53,11 +55,7 @@ JDK includes JRE and JVM. JRE uses JVM to run the actual code.
 4. **Verify installation**:
    ```cmd
    java -version
-
-Check install: Open command prompt, type java -version. <img width="1448" height="510" alt="JDK Installation verification" src="https://github.com/user-attachments/assets/ac1a2bfe-6a51-4012-ae6e-ce47656d3a98" />
  
-
-
 
 # Using Eclipse IDE
 Download Eclipse from official site.
