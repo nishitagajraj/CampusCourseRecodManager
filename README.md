@@ -1,5 +1,5 @@
 # Campus Course & Records Manager (CCRM)
-             CCRM is a computer program written in Java to help schools keep track of students, courses, grades, and backups. It runs in a command window, so actions are chosen by picking menu options. You use it to add students, create courses, enroll students in courses, give grades, and save or back up data.
+ CCRM is a computer program written in Java to help schools keep track of students, courses, grades, and backups. It runs in a command window, so actions are chosen by picking menu options. You use it to add students, create courses, enroll students in courses, give grades, and save or back up data.
              
 #  Main Features
 
