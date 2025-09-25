@@ -11,7 +11,7 @@
   
 -  **Save and read data** from files with backup capabilities
 
-# Java Evolution & Architecture
+# Java Evolution 
 
 - **JDK 1.0 (1996)**: Initial OOP features, basic syntax
 - **JDK 1.2**: Collections framework, Swing
@@ -28,7 +28,7 @@
 
 JDK includes JRE and JVM. JRE uses JVM to run the actual code.
 
-**#Java Editions Comparison:**
+# Java Editions Comparison:
 **Edition	  :Mainly Used For, Typical Devices , 	Main Features	 , Examples .**
 
  **Java SE:**
@@ -83,6 +83,7 @@ Screenshots folder:
 <img width="654" height="793" alt="program running  7" src="https://github.com/user-attachments/assets/bb613c3d-9b85-490d-bdb5-546a84723651" />
 
 ■ Exports/Backups folder structure
+
 <img width="619" height="978" alt="eclipse setup and run" src="https://github.com/user-attachments/assets/93f2626e-d6db-4097-83bd-83f13e824fad" />
 
 
